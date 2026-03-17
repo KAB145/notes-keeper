@@ -285,3 +285,9 @@ dialog::backdrop {
   font-size: 1rem;
   margin-bottom: 2rem;
 }
+
+.note-date{
+  font-size: 0.8rem;
+  color: var(--secondary-text-color);
+  margin-top: 0.5rem;
+}
